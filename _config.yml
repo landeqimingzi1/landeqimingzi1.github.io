@@ -79,7 +79,8 @@ theme: nexT
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/ipyker/ipyker.github.io
+  repository: 
+  github: https://github.com/landeqimingzi1/landeqimingzi1.github.io
   branch: master
 
 search:
